@@ -1,0 +1,1 @@
+# npx-swan-install-module
